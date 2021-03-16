@@ -18,6 +18,6 @@ public class Caso6 {
 		System.out.println("Resultado 1: " + rpta1);
 		System.out.println("Resultado 2: " + rpta2);
 		System.out.println("Resultado 3: " + rpta3);
-		System.out.println("Resultado 4: " + rpta4);
+		System.out.println("Resultado 4: " + rpta2);
 	}
 }
