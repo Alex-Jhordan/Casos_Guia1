@@ -10,7 +10,8 @@ public class Caso12 {
 		String pl2 = frase.substring(11, 21);
 		String pl3 = frase.substring(24, 35);
 		
-		System.out.println("Resultado");
+		System.out.println("Resultados");
+		System.out.println("==========");
 		System.out.println("Palabra 1: " + pl1);
 		System.out.println("Palabra 2: " + pl2);
 		System.out.println("Palabra 3: " + pl3);

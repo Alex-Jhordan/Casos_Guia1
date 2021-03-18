@@ -14,7 +14,7 @@ public class Caso13 {
 		System.out.print("Ingrese apellido: ");
 		String apellido = a.nextLine();
 		
-		System.out.println("Resultado");
+		System.out.println("\nResultado");
 		System.out.println("Alumno(a): " + nombre + " " + apellido);
 		
 	}

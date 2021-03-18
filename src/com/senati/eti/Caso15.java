@@ -18,9 +18,9 @@ public class Caso15 {
 		
 		float importe1 = cantidad * precio;
 		float importe2 = (float) (importe1 / 3.24);
-		float importe3 =  (float) (importe1 / 3.24);
+		float importe3 =  (float) (importe1 / 3.75);
 		
-		System.out.println("Resultado");
+		System.out.println("\nResultado");
 		System.out.println("Importe en soles: " + b.format(importe1));
 		System.out.println("Importe en dólares: " + b.format(importe2));
 		System.out.println("Importe en euros: " + b.format(importe3));

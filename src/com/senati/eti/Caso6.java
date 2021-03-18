@@ -13,7 +13,7 @@ public class Caso6 {
 		
 		float rpta4 = (float) Math.pow(256.0, 1/4.0) + (float) Math.pow(25.0, 1/2.0);
 		
-		System.out.println("\nResultados");
+		System.out.println("Resultados");
 		System.out.println("============");
 		System.out.println("Resultado 1: " + rpta1);
 		System.out.println("Resultado 2: " + rpta2);
