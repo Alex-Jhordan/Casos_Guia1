@@ -9,7 +9,7 @@ public class Caso18 {
 		
 		float area = 0;
 		
-		System.out.println("Porgrama para calcular el área de un triángulo");
+		System.out.println("Programa para calcular el área de un triángulo");
 		System.out.println("===========================================");
 		System.out.print("\nIngrese la base: ");
 		float base = a.nextInt();
